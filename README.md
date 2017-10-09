@@ -1,7 +1,6 @@
-Props, Children, Functions, Fun
-This project will provide practice in scaffolding, passing props, passing functions as props, and rendering child components.
+## This project will provide practice in React scaffolding, passing props, passing functions as props, and rendering child components.
 
-In order to get familiar with props, state, passing props to children, and rendering children components, let's fix our application. w
+In order to get familiar with props, state, passing props to children, and rendering children components, let's fix our application. 
 
 Use create-react-app to generate a new React application.
 Directly within your new app directory, make a new src directory.
@@ -30,4 +29,4 @@ The App component should only render a BaseLayout and ParentComponent.
 Results  
 
 The application should run without errors and you should be able to input text and display it in another component after clicking submit. After all functionality is complete you should stylize your application in a theme that you see fit.
-# PropsChildFcnFun
+
